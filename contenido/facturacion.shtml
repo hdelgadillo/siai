@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index" />
+  <meta name="keywords" content="Facturación Electronica, SAT, FIEL, Sellos Digitales" />
+  <meta name="description" content="Foro de ayuda a las PYMES en Facturación Electroónica" />
+  <title>ITDMX Sistemas - Facturación Electrónica</title>
+  <link rel="stylesheet" href="/includes/template.css" type="text/css" />
+<!-- Menu head -->		
+		<link href="/includes/moomenu.css" rel="stylesheet" type="text/css" />
+		<link href="/includes/header.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body id="bd" class=" wide fs3" onLoad="goforit()">
+<div id="ja-wrapper">
+<!-- BEGIN: HEADER -->
+<!--#include virtual="/header/header_inicio.html" -->
+<!-- END: HEADER -->
+<br/>		
+	<!-- BEGIN: BOTTOM SPOTLIGHT-->
+	<div id="ja-botsl" class="ja-box-br">
+	<div class="ja-box-bl">
+	<div class="ja-box-tr">
+	<div class="ja-box-tl clearfix">	
+	  	  <div class="ja-box-left" style="width: 1%;"> </div>	  	  	  	 
+	  	  <div class="ja-box-center" style="width: 80%;">
+			<div class="module">
+			<div><div>				
+				<div align="center">
+				<h3>Que es la Facturación Electrónica:</h3>
+				<table border="0" cellspacing="0" cellpadding="0" width="98%">
+				<tbody>
+				<tr>
+				<td><p style="text-align: justify; font-family: Century Gothic; color: #000000;">Una factura electrónica es un documento digital que cumple con los requisitos legal y reglamentariamente exigibles a las facturas tradicionales garantizando, entre otras cosas, la autenticidad de su origen y la integridad de su contenido.</p>
+<p style="text-align: justify; font-family: Century Gothic; color: #000000;">Para que la factura electrónica tenga validez debe estar completada con la firma electrónica, que le da validez legal permitiendo eliminar la factura en papel.</p>
+<p style="text-align: justify; font-family: Century Gothic; color: #000000;">La factura electrónica es el equivalente digital y evolución lógica de la tradicional factura en papel. A diferencia de esta, se emplean soportes informáticos para su almacenamiento en lugar de un soporte físico como es el papel.</p>
+<p style="text-align: justify; font-family: Century Gothic; color: #000000;">Una factura electrónica se construye en 2 fases:<br>
+1. Se crea la factura tal y como se ha hecho siempre y se almacena en un fichero de datos.<br>
+2. Posteriormente se procede a su firma con un certificado digital o electrónico propiedad del emisor que cifra el contenido de factura y añade el sello digital a la misma validado por la autoridad fiscal</p>
+<p style="text-align: justify; font-family: Century Gothic; color: #000000;">Al terminar obtenemos una factura que nos garantiza:<br>
+•	Que la persona física o jurídica que firmó la factura es quien dice ser (autenticidad)<br>
+•	Y que el contenido de la factura no ha sido alterado (integridad).</p>
+<p style="text-align: justify; font-family: Century Gothic; color: #000000;"><b>Ventajas:</b><br>
+•	Ahorro en el gasto de papelería, la factura electrónica es ecologica.<br>
+•	Facilidad en los procesos de auditoría.<br>
+•	Mayor seguridad en el resguardo de los documentos.<br>
+•	Menor probabilidad de falsificación.<br>
+•	Agilidad en la localización de información.<br>
+•	Eliminación de espacios físicos para almacenar documentos históricos.<br>
+•	Procesos administrativos más rápidos y eficientes.<br>
+•	Aumenta la seguridad documental.<br>
+•	Reducción en tiempos de gestión.<br>
+•	Reduce errores en el proceso de generación, captura, entrega y almacenamiento.<br>
+•	Registro de la hora, el minuto y el segundo de emisión del comprobante fiscal digital (time stamp o sello del fechador).<br>
+•	Contabilidad automatizada.<br>
+•	Facilidad para el cálculo de impuestos.</p>
+					</td>
+				</tr>				
+				</tbody>
+				</table>					
+				</div>
+			</div></div>
+		</div>	
+	  </div>	  	
+	  	  <div class="ja-box-right" style="width: 20%;">
+			<div class="module">
+			<div>
+				<div>
+					<!-- BEGIN: Ligas de Interes -->
+					<!--#include virtual="/comunes/interes.html" -->
+					<!-- END: Ligas de Interes -->	
+				</div>
+			</div>
+		</div>
+	  </div>	              	
+	</div>
+	</div>
+	</div>
+	</div>
+	<!-- END: BOTTOM SPOTLIGHT 2 -->	
+<!-- BEGIN: FOOTER -->
+	<!--#include virtual="/comunes/footer.html" -->
+<!-- END: FOOTER -->
+</div>
+</body>
+</html>

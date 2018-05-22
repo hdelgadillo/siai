@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index" />
+  <meta name="keywords" content="Antecedentes, Infraestructura, Redes" />
+  <meta name="description" content="Antecedentes de ITDMX Sistemas como empresa de infraestructura" />
+  <title>ITDMX Sistemas - Antecedentes</title>
+  <link rel="stylesheet" href="/includes/template.css" type="text/css" />
+<!-- Menu head -->		
+		<link href="/includes/moomenu.css" rel="stylesheet" type="text/css" />
+		<link href="/includes/header.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body id="bd" class=" wide fs3" onLoad="goforit()">
+<div id="ja-wrapper">
+<!-- BEGIN: HEADER -->
+<!--#include virtual="/header/header_dos.html" -->
+<!-- END: HEADER -->
+<br/>		
+	<!-- BEGIN: BOTTOM SPOTLIGHT-->
+	<div id="ja-botsl" class="ja-box-br">
+	<div class="ja-box-bl">
+	<div class="ja-box-tr">
+	<div class="ja-box-tl clearfix">	
+	  	  <div class="ja-box-left" style="width: 1%;"> </div>	  	  	  	 
+	  	  <div class="ja-box-center" style="width: 80%;">
+			<div class="module">
+			<div><div>				
+				<div>
+				<h3>Antecedentes</h3>
+				<table border="0" cellspacing="1" cellpadding="0" width="99%">
+				<tbody>
+				<tr>
+				<td>
+				<p style="text-align: justify;">Las tecnologías están siendo condicionadas por la evolución y la forma de acceder a los contenidos, servicios y aplicaciones, a medida que se extiende la banda ancha y los usuarios se adaptan, se producen unos cambios en los servicios.</p>
+				<p style="text-align: justify;">Con las limitaciones técnicas iniciales (128 kbps de ancho de banda), los primeros servicios estaban centrados en la difusión de información estática, además de herramientas nuevas y exclusivas de esta tecnología como el correo electrónico, o sistemas electrónicos.</p>
+				<p style="text-align: justify;">Las empresas y entidades pasaron a utilizar las TI como un nuevo canal de difusión de los productos y servicios. A su vez hay un segundo grupo de servicios de TI como el comercio electrónico, facturación electrónica, la banca online, el acceso a contenidos informativos y de ocio. Son servicios donde se mantiene el modelo proveedor-cliente con una sofisticación, más o menos grande en función de las posibilidades tecnológicas y de evolución de la forma de prestar el servicio.</p>
+				</td>
+				</tr>
+				<tr>
+				<td align="center"><img src="/images/integracion.jpg" border="0"/ align="center"></td>
+				</tr>
+				</tbody>
+				</table>					
+				</div>
+			</div></div>
+		</div>	
+	  </div>	  	
+	  	  <div class="ja-box-right" style="width: 20%;">
+			<div class="module">
+			<div>
+				<div>
+					<!--#include virtual="/comunes/alianzas.html" -->
+				</div>
+			</div>
+		</div>
+	  </div>	              	
+	</div>
+	</div>
+	</div>
+	</div>
+	<!-- END: BOTTOM SPOTLIGHT 2 -->	
+<!-- BEGIN: FOOTER -->
+<!--#include virtual="/comunes/footer.html" -->
+<!-- END: FOOTER -->
+</div>
+</body>
+</html>

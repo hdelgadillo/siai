@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index" />
+  <meta name="keywords" content="Facturación Electronica, SAT, FIEL, Sellos Digitales" />
+  <meta name="description" content="Foro de ayuda a las PYMES en Facturación Electroónica" />
+  <title>ITDMX Sistemas - Facturación Electrónica</title>
+  <link rel="stylesheet" href="/includes/template.css" type="text/css" />
+<!-- Menu head -->		
+		<link href="/includes/moomenu.css" rel="stylesheet" type="text/css" />
+		<link href="/includes/header.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body id="bd" class=" wide fs3" onLoad="goforit()">
+<div id="ja-wrapper">
+<!-- BEGIN: HEADER -->
+<div class="ja-box-br" style="overflow: visible;">
+<div class="ja-box-bl">
+<div class="ja-box-tr">
+<div class="ja-box-tl">
+	<div id="ja-header" class="clearfix">
+		<h1 class="logo"><a href="/" title="ITDMX"><span>ITDMX</span></a></h1>		
+		<div id="ja-topnav">
+			<script type="text/javascript" src="/includes/livedatescript.js"></script>
+			<span id="clock"></span>
+		</div>
+	<!-- BEGIN: MAIN NAVIGATION -->
+		<div id="ja-mainnav" class="clearfix">
+		<ul id="ja-cssmenu" class="clearfix">
+		<li class="active"><a href="http://www.itdmx.com/" class="menu-item0 active first-item" id="menu1" title="INICIO"><span class="menu-title">INICIO</span></a></li> 
+		<li class="havechild"><a href="/contenido/somos.html" class="menu-item1" id="menu2" title="QUIÉNES SOMOS"><span class="menu-title">QUIÉNES SOMOS</span></a>
+		<ul>
+		<li ><a href="/" class="first-item" id="menu21" title="Antecedentes"><span class="menu-title">Antecedentes</span></a></li> 
+		<li ><a href="/"  id="menu22" title="Nuestro Compromiso"><span class="menu-title">Nuestro Compromiso</span></a></li> 
+		</ul>
+		</li>  
+		<!-- <li ><a href="/" class="menu-item2" id="menu2" title="ASOCIADOS"><span class="menu-title">ASOCIADOS</span></a></li> -->
+		<li class="havechild"><a href="/contenido/servicios.html" class="menu-item3" id="menu3" title="Servicios"><span class="menu-title">SERVICIOS</span></a>
+		<!-- <ul>
+		<li ><a href="/" class=" first-item" id="menu31" title="Facturacion"><span class="menu-title">Facturación Electrónica</span></a></li> 
+		<li ><a href="/"  id="menu32" title="Contabilidad"><span class="menu-title">Servicios Contables</span></a></li> 
+		<li ><a href="/" class=" last-item" id="menu33" title="Infraestructura"><span class="menu-title">Infraestructura Tecnológica</span></a></li> 
+		</ul> -->
+		</li> 
+		</ul>
+		</div>
+	<!-- END: MAIN NAVIGATION -->
+	</div>
+</div>
+</div>
+</div>
+</div>
+<br/>		
+	<!-- BEGIN: BOTTOM SPOTLIGHT-->
+	<div id="ja-botsl" class="ja-box-br">
+	<div class="ja-box-bl">
+	<div class="ja-box-tr">
+	<div class="ja-box-tl clearfix">	
+	  	  <div class="ja-box-left" style="width: 1%;"> </div>	  	  	  	 
+	  	  <div class="ja-box-center" style="width: 80%;">
+			<div class="module">
+			<div><div>				
+				<div>
+				<h3>Ventajas</h3>
+				<table border="0" cellspacing="1" cellpadding="0" width="90%">
+				<tbody>
+				<tr>
+				<td><img src="/images/afiliate_razones.jpg" border="0"/>Algo aqui</td>
+				</tr>
+				<tr>
+				<td>Asesoría y capacitación técnica</td>
+				</tr>
+				</tbody>
+				</table>					
+				</div>
+			</div></div>
+		</div>	
+	  </div>	  	
+	  	  <div class="ja-box-right" style="width: 20%;">
+			<div class="module">
+			<div>
+				<div>
+					<div>
+					<h3>Noticias Importantes</h3>
+					<table border="0" cellspacing="0" width="162">
+					<tbody>
+					<tr>
+					<td width="25"><img src="/images/automotriz.jpg" border="0"/><br/></td>
+					<td width="120"><a href="/index.html">Legislación actual</a></td>
+					</tr>
+					</tbody>
+					</table>					
+					</div>
+				</div>
+			</div>
+		</div>
+	  </div>	              	
+	</div>
+	</div>
+	</div>
+	</div>
+	<!-- END: BOTTOM SPOTLIGHT 2 -->	
+<!-- BEGIN: FOOTER -->
+<div id="ja-footer">
+	<!--#include virtual="servicios.html" -->
+</div>
+<!-- END: FOOTER -->
+</div>
+</body>
+</html>

@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index" />
+  <meta name="keywords" content="ITDMX Quienes Somos" />
+  <meta name="description" content="ITDMX Sistemas, empresa de tecnología" />
+  <title>ITDMX Sistemas - Quienes Somos</title>
+  <link rel="stylesheet" href="/includes/template.css" type="text/css" />
+<!-- Menu head -->		
+		<link href="/includes/moomenu.css" rel="stylesheet" type="text/css" />
+		<link href="/includes/header.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body id="bd" class=" wide fs3" onLoad="goforit()">
+<div id="ja-wrapper">
+<!-- BEGIN: HEADER -->
+<!--#include virtual="/header/header_dos.html" -->
+<!-- END: HEADER -->
+<br/>		
+	<!-- BEGIN: BOTTOM SPOTLIGHT-->
+	<div id="ja-botsl" class="ja-box-br">
+	<div class="ja-box-bl">
+	<div class="ja-box-tr">
+	<div class="ja-box-tl clearfix">	
+	  	  <div class="ja-box-left" style="width: 1%;"> </div>	  	  	  	 
+	  	  <div class="ja-box-center" style="width: 80%;">
+			<div class="module">
+			<div><div>				
+				<div>
+				<h3>Quines Somos:</h3>
+				<table border="0" cellspacing="1" cellpadding="0" width="99%">
+				<tbody>				
+				<tr>
+				<td>				
+				<p style="text-align: justify;">Infraestructura de Tecnología y Datos de México (ITDMX), es una empresa fundada en 2012, distinguida por ofrecer soluciones empresariales de alta calidad, integrando personal calificado, tecnología y procesos basados en estándares internaciones para ayudar a nuestros clientes a alcanzar sus objetivos y mantener los niveles de rendimiento que necesitan, permitiéndole reducir costos mediante una mayor eficiencia y productividad.</p>
+				<p style="text-align: justify;">Nuestra estrecha relación con fabricantes (HP, VMWare) y socios de negocio (como ICC RED), junto con la constante incorporación de nuevas herramientas, tecnologías e innovaciones, ayudará a su organización a mantenerse a la cabeza de la industria.</p>
+				<p style="text-align: justify;">En ITDMX nos especializamos en transformar sus necesidades tecnológicas en soluciones integrales, efectivas y con gran valor que les permitan a nuestros clientes enfrentar los retos cambiantes del negocio y crecimiento continuo, de una forma ágil y flexible a través de un grupo humano con un alto nivel de conocimiento y experiencia.</p>				
+				<p style="text-align: justify;">Nuestro objetivo es integrar la información a la tecnología, tomando en cuenta  los recursos y servicios como: procesos y técnicas usadas en el procesamiento de la información, almacenamiento y transmisión de información. Incorporándolos a las tecnologías nuevas a nivel de hardware y software. Al decir "nuevas tecnologías" nos estamos refiriendo a un concepto que abarca a las "tecnologías de la información y la comunicación", desde la venta del hardware, configuración de equipos, redes y sistemas e integración de procesos a tecnologías de información.</p>				
+				<!--<p style="text-align: rigth;"><b>Misión:</b></p>
+				<p style="text-align: left;"><b>Visión:</b></p>-->
+				</td>
+				</tr>
+				</tbody>
+				</table>					
+				</div>
+			</div></div>
+		</div>	
+	  </div>	  	
+	  	  <div class="ja-box-right" style="width: 20%;">
+			<div class="module">
+			<div>
+				<div>																			
+					<img src="/images/somos.png" border="0" align="center">	
+					<br>	
+					<!-- BEGIN: Ligas de Interes -->
+					<!--#include virtual="/comunes/interes.html" -->
+					<!-- END: Ligas de Interes -->					
+				</div>
+			</div>
+		</div>
+	  </div>	              	
+	</div>
+	</div>
+	</div>
+	</div>
+	<!-- END: BOTTOM SPOTLIGHT 2 -->	
+<!-- BEGIN: FOOTER -->
+<!--#include virtual="/comunes/footer.html" -->
+<!-- END: FOOTER -->
+</div>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es"> 
+<head> 
+    <title>Rotación de banners con Javascript</title> 
+ <script> 
+ //creo array de imágenes 
+ array_imagen = new Array(3) 
+ array_imagen[0] = new Image(520,280) 
+ array_imagen[0].src = "/images/VMwareICC.jpg" 
+ array_imagen[1] = new Image(520,280) 
+ array_imagen[1].src = "/images/servidores-hp.jpg" 
+ array_imagen[2] = new Image(520,280) 
+ array_imagen[2].src = "/images/Servicios.jpg" 
+ 
+ //creo el array de URLs 
+ array_url = new Array(4) 
+ array_url[0] = "http://www.salvarpatrimonio.org/" 
+ array_url[1] = "http://www.guiarte.com/" 
+ array_url[2] = "http://www.estiloymoda.com/" 
+ 
+
+ //variable para llevar la cuenta de la imagen siguiente 
+ contador = 0 
+
+ //función para rotar el banner 
+ function alternar_banner(){ 
+     window.document["banner"].src = array_imagen[contador].src 
+     window.document.links[0].href = array_url[contador] 
+     contador ++ 
+     contador = contador % array_imagen.length 
+     setTimeout("alternar_banner()",5000) 
+ } 
+ </script> 
+</head> 
+
+ <body onload="alternar_banner()"> 
+
+ <a href="#"><img src="/images/VMwareICC.jpg" name="banner" width="560" height="296" border=0></a> 
+</body> 
+</html> 

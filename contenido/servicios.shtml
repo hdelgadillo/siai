@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index" />
+  <meta name="keywords" content="ITDMX, Servicios de Infraestructura, Venta de Equipos de Computo" />
+  <meta name="description" content="ITDMX Sistemas, Servicios que proporciona nuestra empresa" />
+  <title>ITDMX Sistemas - Servicios</title>
+  <link rel="stylesheet" href="/includes/template.css" type="text/css" />
+<!-- Menu head -->		
+		<link href="/includes/moomenu.css" rel="stylesheet" type="text/css" />
+		<link href="/includes/header.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body id="bd" class=" wide fs3" onLoad="goforit()">
+<div id="ja-wrapper">
+<!-- BEGIN: HEADER -->
+<!--#include virtual="/header/header_tres.html" -->
+<!-- END: MAIN NAVIGATION -->
+<br/>		
+	<!-- BEGIN: BOTTOM SPOTLIGHT-->
+	<div id="ja-botsl" class="ja-box-br">
+	<div class="ja-box-bl">
+	<div class="ja-box-tr">
+	<div class="ja-box-tl clearfix">	
+	  	  <div class="ja-box-left" style="width: 1%;"> </div>	  	  	  	 
+	  	  <div class="ja-box-center" style="width: 80%;">
+			<div class="module">
+			<div><div>				
+				<div>
+				<h3>Servicios:</h3>
+				<table border="0" cellspacing="1" cellpadding="0" width="98%">
+				<tbody>
+				<tr><td><img src="/images/Servicios.jpg" border="0" width="720" height="280" align="center"></td><tr>
+				<tr>
+				<td style="text-align: justify;">
+				<p>ITDMX ofrece las soluciones que actualmente demandan las empresas ante los riesgos, retos y oportunidades que se requiere para adoptar las tecnologías a los procesos y ser mas agiles y competitivos. Contando con consultores altamente experimentados y capacitados, con la capacidad de proporcionar soluciones integrales que se adapten a sus procesos de negocio, desde la definición de las necesidades, la planeación del proyecto, el alcance del proyecto, la implementación, y la puesta en operación.</p>
+				<!-- <ul>
+				<li style="text-align: justify;"><b>Infraestructura de cómputo:</b> venta de equipo personal y servidores, configuración de servidores (clúster, redes, optimización de sistemas operativos), instalación de sistemas operativos, firmwares.</li>
+				<li style="text-align: justify;"><b>Infraestructura tecnológica:</b> Le ayudamos a que su empresa se migre o adopte las soluciones tecnológicas empresariales (Exchange, Active Directory, Redes Sociales, Herramientas de colaboración, Redes, Soluciones de Almacenamiento, Herramientas de respaldos de información) con un menor costo de adaptación, y mejores prácticas que se adapten a las necesidades de su empresa.</li>
+				<li style="text-align: justify;"><b>Virtualización:</b> al ser partner de VMWare podemos ofrecerle cualquier solución disponible, desde el análisis para la factibilidad de utilizar la virtualización, instalación y configuración de los diferentes servicios y funcionalidades de VMware vSphere, operación de la solución de virtualización dando el valor agregada de utilizar las mejores prácticas para un mejor rendimiento y utilización de la infraestructura.</li>
+				<li style="text-align: justify;"><b>Servicios en la Nube:</b> Integrar a su empresa a las diferentes soluciones y/o servicios que se ofrecen en internet, permitiéndole a su empresa optimizar en costos de infraestructura y agilizar los cambios tecnológicos que implican las nuevas tecnologías y procesos.</li>
+				</ul> -->				
+				</td>
+				</tr>				
+				</tbody>
+				</table>					
+				</div>
+			</div></div>
+		</div>	
+	  </div>	  	
+	  <div class="ja-box-right" style="width: 20%;">
+		<div class="module">
+			<div>
+				<div>
+					<!-- BEGIN: Ligas de Interes -->
+					<!--#include virtual="/comunes/interes.html" -->
+					<!-- END: Ligas de Interes -->
+				</div>
+			</div>
+		</div>
+	  </div>	              	
+	</div>
+	
+	<!-- BEGIN: Cuadros-->
+	<!--<div id="ja-botsl" class="ja-box-br">
+	<div class="ja-box-bl">
+	<div class="ja-box-tr"> -->
+	<div class="ja-box-tl clearfix">	
+	  	<div class="ja-box-left" style="width: 20%;">
+		  <div class="module">
+			<div><div>				
+				<div>
+				<h3>Infraestructura de cómputo:</h3>
+				<ul>
+				<li><span style="text-align: justify; font-size: small;">Venta de equipo personal y servidores.</span></li>
+				<li><span style="text-align: justify; font-size: small;">Configuración de servidores (clúster, redes, optimización de sistemas operativos).</span></li>
+				<li><span style="text-align: justify; font-size: small;">Instalación de sistemas operativos, firmwares.</span></li>
+				<li></li>
+				<li></li>
+				</ul>
+				</div>
+			</div></div>
+			</div></div>	  	  	  	 
+	  	<div class="ja-box-center" style="width: 20%;">
+			<div class="module">
+			<div><div>				
+				<div>
+				<h3>Infraestructura tecnológica:</h3>
+				<ul><span style="text-align:justify; font-size:small;">Le ayudamos a que su empresa se migre o adopte las soluciones tecnológicas empresariales.</span>
+				<li><span style="text-align:justify; font-size:small;">Exchange</span></li>
+				<li><span style="text-align:justify; font-size:small;">Active Directory</span></li>
+				<li><span style="text-align:justify; font-size:small;">Herramientas de Colaboración</span></li>
+				<li><span style="text-align:justify; font-size:small;">Redes Sociales</span></li>
+				<li></li>
+				</ul>
+				</div>
+			</div></div>
+			</div>	
+	    </div>
+		<div class="ja-box-center" style="width: 20%;">
+			<div class="module">
+			<div><div>				
+				<div>
+				<h3>Virtualización:</h3>
+				<ul><span style="text-align: justify; font-size: small;">Al ser partner de VMWare podemos ofrecerle:</span>
+				<li><span style="text-align:justify; font-size:small;">Análisis de factibilidad para virtualización</span></li>
+				<li><span style="text-align:justify; font-size:small;">Instalación de VMware vSphere</span></li>
+				<li><span style="text-align:justify; font-size:small;">Configuración de VMware vSphere</span></li>
+				<li><span style="text-align:justify; font-size:small;">Operación de sus ambientes de virtualización</span></li>
+				<li></li>
+				</ul>					
+				</div>
+			</div></div>
+			</div>	
+	    </div>
+	  	  <div class="ja-box-right" style="width: 20%;">
+			<div class="module">
+			<div>
+				<div>
+					<div>
+					<h3>Servicios en la Nube:</h3>															
+					<p style="text-align: justify; font-size: small;">Integrar a su empresa a las diferentes soluciones y/o servicios que se ofrecen en internet, permitiéndole a su empresa optimizar en tiempo y costos de infraestructura a los cambios tecnológicos y procesos.</p>										
+					</div>
+				</div>
+			</div>
+		</div>
+	  </div>	              	
+	</div>
+	<!--</div>
+	</div>
+	 </div> -->
+	<!-- END: Cuadros -->	
+	</div>
+	</div>
+	</div>
+	<!-- END: BOTTOM SPOTLIGHT -->	
+<!-- BEGIN: FOOTER -->
+<!--#include virtual="/comunes/footer.html" -->
+<!-- END: FOOTER -->
+</div>
+</body>
+</html>

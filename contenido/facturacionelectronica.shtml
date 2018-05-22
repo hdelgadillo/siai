@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index" />
+  <meta name="keywords" content="Facturación Electronica, SAT, FIEL, Sellos Digitales" />
+  <meta name="description" content="Foro de ayuda a las PYMES en Facturación Electroónica" />
+  <title>ITDMX Sistemas - Facturación Electrónica</title>
+  <link rel="stylesheet" href="/includes/template.css" type="text/css" />
+<!-- Menu head -->		
+		<link href="/includes/moomenu.css" rel="stylesheet" type="text/css" />
+		<link href="/includes/header.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body id="bd" class=" wide fs3" onLoad="goforit()">
+<div id="ja-wrapper">
+<!-- BEGIN: HEADER -->
+<!--#include virtual="/header/header_inicio.html" -->
+<!-- END: HEADER -->
+<br/>		
+	<!-- BEGIN: BOTTOM SPOTLIGHT-->
+	<div id="ja-botsl" class="ja-box-br">
+	<div class="ja-box-bl">
+	<div class="ja-box-tr">
+	<div class="ja-box-tl clearfix">	
+	  	  <div class="ja-box-left" style="width: 1%;"> </div>	  	  	  	 
+	  	  <div class="ja-box-center" style="width: 80%;">
+			<div class="module">
+			<div><div>				
+				<div>
+				<h3>Facturación Electrónica</h3>
+				<table border="0" cellspacing="1" cellpadding="0" width="98%">
+				<tbody>
+				<tr>
+				<td><img src="/images/facturacionElectronica.jpg" width="260" height="160" align="right" border="0"/><p style="text-align: justify; font-weight:bold;">Para contar con la facturación electrónica (CFDI) se necesita:</p></td>
+				</tr>
+				<tr>
+				<td><p style="text-align: justify; font-weight:bold;">1: Firma Electrónica Avanzada (Fiel)</p>
+				<p style="text-align: justify;">La Fiel es un comprobante digital de identidad que se utiliza para el registro de los contribuyentes. Se obtiene con cita en las oficinas del SAT donde se registran huellas dactilares, retina y otros elementos que evitan el robo de identidad.
+					En caso de no tener la Fiel se puede obtener vía el SAT en el siguiente <a href="http://www.sat.gob.mx/sitio_internet/e_sat/tu_firma/default.asp" target="_blank">enlace.</a> Si ya se cuenta con una y no se tiene a la mano los archivos que se generan durante la cita (usualmente se entregan en una memoria USB personal) en este link se pueden volver a <a href="http://www.sat.gob.mx/sitio_internet/e_sat/tu_firma/60_6633.html" target="_blank">descargar</a>. Esto es necesario para proceder con la facturación electrónica.</p>
+				<p style="text-align: justify; font-weight:bold;">2: Certificado de Sello Digital</p>
+				<p style="text-align: justify;">Este sello es una medida adicional que avala la impresión del comprobante electrónico. Para generarlo se requiere de la Fiel y es un proceso breve que se hace a través de una herramienta de software desarrollada por el SAT.
+					El programa Solcedi es un software que genera el sello digital. Se puede instalar en Windows, Mac OS X y Linux; una vez abierto, se debe elegir la opción “Solicitud  de Certificados de Sello Digital” y seguir los pasos para subir el archivo de la Fiel y concluir con este procedimiento. Los archivos generados servirán para la facturación electrónica.
+					Si se tienen dudas, en este <a href="http://www.sat.gob.mx/sitio_internet/e_sat/comprobantes_fiscales/15_15564.html" target="_blank">enlace </a>se muestra los pasos para obtener el sello. El detalle del CSD está a se encuentra a partir de la página 19.
+				<p style="text-align: justify; font-weight:bold;">3: Factura Electrónica</p>
+				<p style="text-align: justify;">Hecho esto, ya se puede pasar a la creación de CFDI. El Servicio de Administración Tributaria ofrece una herramienta para los contribuyentes que funciona en línea; o puede contratar los servicios de un PAC autorizado por el SAT, o si lo desea podemos nosotros podemos ayudarte durante todo el proceso interactuando con cada una de las instancias necesarias para obtener la facturación.</p>
+				</td>
+				</tr>
+				</tbody>
+				</table>					
+				</div>
+			</div></div>
+		</div>	
+	  </div>	  	
+	  	  <div class="ja-box-right" style="width: 20%;">
+			<div class="module">
+			<div>
+				<div>
+					<!-- BEGIN: Ligas de Interes -->
+					<!--#include virtual="/comunes/interes.html" -->
+					<!-- END: Ligas de Interes -->
+				</div>
+			</div>
+		</div>
+	  </div>	              	
+	</div>
+	</div>
+	</div>
+	</div>
+</div>
+	<!-- END: BOTTOM SPOTLIGHT 2 -->	
+
+<!-- BEGIN: FOOTER -->
+<!--#include virtual="/comunes/footer.html" -->
+<!-- END: FOOTER -->
+</div>
+</body>
+</html>

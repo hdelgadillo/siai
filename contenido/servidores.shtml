@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index" />
+  <meta name="keywords" content="Venta, Renta, Computadoras Personales, Servidores" />
+  <meta name="description" content="Venta de Servidores y Computadoras Personales" />
+  <title>ITDMX Sistemas - Servidores e Infraestructura</title>
+  <link rel="stylesheet" href="/includes/template.css" type="text/css" />
+<!-- Menu head -->		
+		<link href="/includes/moomenu.css" rel="stylesheet" type="text/css" />
+		<link href="/includes/header.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body id="bd" class=" wide fs3" onLoad="goforit()">
+<div id="ja-wrapper">
+<!-- BEGIN: HEADER -->
+<!--#include virtual="/header/header_inicio.html" -->
+<!-- END: HEADER -->
+<br/>		
+	<!-- BEGIN: BOTTOM SPOTLIGHT-->
+	<div id="ja-botsl" class="ja-box-br">
+	<div class="ja-box-bl">
+	<div class="ja-box-tr">
+	<div class="ja-box-tl clearfix">	
+	  	  <div class="ja-box-left" style="width: 20%;">
+		    <div class="module">
+			<div><div><div>
+				<h3>Catalogo de Productos:</h3>
+				<table border="0" cellspacing="1" cellpadding="0" width="90%">
+				<tbody>
+				<tr>
+				<td>Servidores</td>
+				</tr>
+				<tr>
+				<td>Laptops</td>
+				</tr>
+				</tbody>
+				</table>					
+			</div></div></div>
+			</div>
+		  </div>	  	  	  	 
+	  	  <div class="ja-box-center" style="width: 60%;">						
+			<div class="module">
+			<div><div>				
+				<div>				
+				<h3>Venta de Equipo de Computo y Servidores</h3>				
+				<table border="0" cellspacing="1" cellpadding="0" width="99%">
+				<tbody>
+				<tr>
+				<td align="center"><img src="/images/servidores-hp.jpg" border="0"/></td>
+				</tr>
+				<tr>
+				<td style="text-align: justify;"><p>En ITDMX le ofrecemos la mejor infraestructura de computo basados en las necesidades de su empresa, como <b>Socio Comercial de HP</b> brindamos asesoría a nuestros clientes para la adquisición de Servidores HP e infraestuctura de Redes, esto les permitirá dedicar tiempo a las actividades que más le remunera a su compañía, tambien contamos con infraestuctura para su personal como computadoras de escritorio, portátiles, quemadores de CD, DVDs, multimedia, etc.</p>
+				<p>¿Que Incluyen Nuestros Equipos?</p>
+				<p>En ITDMX al adquirir sus Servidores HP le ofrecemos las siguientes ventajas:<br>
+					- Asesoría integral para la elección adecuada a sus necesidades en Servidores HP.<br>
+					- Seguimiento en su orden generando una entrega en tiempo y forma de los Servidores HP.<br>
+					- Instalación a domicilio.<br>
+					- Configuración inicial.<br>
+					- Un mantenimiento preventivo gratuito (actualización de firmwares y detección de problemas en hardware).</p>				
+				<p>Si está interesado en adquirir o renovar su infraestructura de computo o red, no dude en contactarnos enviándonos un email a <b>ventas@itdmx.com</b> o llamándonos al teléfono (55)-11077642 en la Ciudad de México.</p>
+				</td>
+				</tr>
+				</tbody>
+				</table>					
+				</div>
+			</div></div>
+		</div>		
+	  </div>
+	  	  <div class="ja-box-right" style="width: 20%;">
+			<div class="module">
+			<div>
+				<div>
+					<!-- BEGIN: Ligas de Interes -->
+					<!--#include virtual="/comunes/interes.html" -->
+					<!-- END: Ligas de Interes -->	
+				</div>
+			</div>
+		</div>
+	  </div>	              	
+	</div>
+	</div>
+	</div>
+	</div>
+	<!-- END: BOTTOM SPOTLIGHT 2 -->	
+<!-- BEGIN: FOOTER -->
+	<!--#include virtual="/comunes/footer.html" -->
+<!-- END: FOOTER -->
+</div>
+</body>
+</html>
