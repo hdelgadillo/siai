@@ -10,4 +10,3 @@
   };
   firebase.initializeApp(config);
 }());
-
